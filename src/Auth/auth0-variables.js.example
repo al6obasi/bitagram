@@ -1,0 +1,5 @@
+export const AUTH_CONFIG = {
+  domain: 'maltobasi.auth0.com',
+  clientId: 'kPiIzZ2HFa3Ui7LcEDUqoGjZzz7ZPEr5',
+  callbackUrl: 'http://localhost:3000/'
+}
